@@ -1,0 +1,56 @@
+﻿=======================
+INFORMASI UMUM
+
+Nama kelompok : Nyuu
+Judul Topik   : Belajar dasar bahasa jepang
+Alamat Github : https://github.com/luckystrike10/TKPPL
+Alamat Trello :https://trello.com/b/XxxLNvld/tkppl-2014
+Anggota 1:
+	Nama: Vincent Lius
+	NIM: 121110243
+Anggota 2:
+	Nama: Hilary Gunarsa Lubis
+	NIM: 121112091
+Anggota 3:
+	Nama: Bambang yusuf
+	NIM: 121111907
+Anggota 4:
+	Nama:Tria Bakdia Afsari
+	NIM: 121111923
+=======================
+
+
+
+SPRINT
+------
+Sprint 1: 
+26/5 - 29/5
+Scrummaster: Nama (NIM)
+
+Sprint 2:
+
+
+Sprint 3: 
+
+
+Progress Harian (Diupdate tiap hari)
+------------------------------------
+
+76/5 
+Daily Scrum
+(Nama Anggota 1):
+1. 
+2. saya hari ini mengerjakan section a-e-i-o-u dengan ka-ki-ku-ke-ko
+3. tidak ada masalah
+
+(Nama Anggota 2):
+1.
+2.
+3.
+
+(Nama Anggota 3):
+1.
+2.
+3.
+
+...
