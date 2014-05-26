@@ -25,7 +25,7 @@ SPRINT
 ------
 Sprint 1: 
 26/5 - 29/5
-Scrummaster: Nama (NIM)
+Scrummaster: Vincent Lius (121110243)
 
 Sprint 2:
 
@@ -33,24 +33,30 @@ Sprint 2:
 Sprint 3: 
 
 
+Sprint 4:
+
+
 Progress Harian (Diupdate tiap hari)
 ------------------------------------
 
-76/5 
+26/5 
 Daily Scrum
-(Nama Anggota 1):
+Vincent Lius:
 1. 
 2. saya hari ini mengerjakan section a-e-i-o-u dengan ka-ki-ku-ke-ko
 3. tidak ada masalah
 
-(Nama Anggota 2):
-1.
-2.
-3.
+Hilary Gunarsa Lubis:
+1. 
+2. Hari ini saya buat sa shi su se so dan ta chi tsu te to
+3. tidak ada masalah
 
-(Nama Anggota 3):
-1.
-2.
-3.
+Bambang Yusuf:
+1. 
+2. Hari ini saya  buat na ni nu ne no dan ha hi fu he ho
+3. tidak ada masalah
 
-...
+Tria Bakdia Afsari:
+1.
+2. Hari ini saya push ma mi mu me mo dan ya i yu e yo
+3. tidak ada masalah
