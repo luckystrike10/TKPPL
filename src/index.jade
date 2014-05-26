@@ -1,0 +1,59 @@
+doctype
+html
+head
+    meta(http-equiv='Content-Type', content='text/html; charset=ISO-8859-1')
+    meta(name='viewport', content='width=device-width')
+    title Bespoke.js
+    meta(content='Bespoke.js', property='og:title')
+    meta(content='Bespoke.js', property='og:site_name')
+    meta(content='http://markdalgleish.com/projects/bespoke.js/', property='og:url')
+    meta(content='website', property='og:type')
+    meta(content='DIY Presentation Micro-Framework. Less than 1KB minified and gzipped, with no dependencies. Bespoke.js provides the foundation, then gets out of your way so you can focus on uniquely crafting your own personal deck style.', property='og:description')
+    meta(content='http://markdalgleish.com/projects/bespoke.js/images/og-thumb.jpg', property='og:image')
+    link(rel='stylesheet', type='text/css', href='style.css')
+    link(rel='stylesheet', type='text/css', href='styles/style.css')
+    link(rel='stylesheet', type='text/css', href='./Bespoke.js_files/style.css')
+    link(rel='stylesheet', type='text/css', href='./Bespoke.js_files/themes.css')
+    link(href='./Bespoke.js_files/css', rel='stylesheet', type='text/css')
+  body.cube
+    #main
+      header
+        p.hidden
+          span#input-method Press up and down keys
+          | to view example themes.  
+      aside#title
+        a(href='https://github.com/markdalgleish/bespoke.js')
+          p Hiragana
+      p#second
+        ul
+          li a-column 
+          li i-column 
+          li u-column 
+          li e-column 
+          li o-column
+      article.bespoke-parent
+        section#mix
+          p あ　い　う　え　お
+          p a e i o u
+        section#mix
+          p か　き　く　け　こ
+          p ka ki ku ke ko
+    footer
+      .themes
+          p
+            strong
+              | MODE VIEW
+              span.colon :
+            span#theme Cube
+          #up-arrow.up.arrow ^
+          #down-arrow.down.arrow ^
+      .social
+        script(type='text/javascript', async='', src='./Bespoke.js_files/plusone.js')
+        script#facebook-jssdk(src='./Bespoke.js_files/all.js')
+        script#twitter-wjs(src='./Bespoke.js_files/widgets.js')
+        script
+          !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
+        g:plusone(size='medium', href='http://markdalgleish.com/projects/bespoke.js/')
+        .fb-like(data-href='http://markdalgleish.com/projects/bespoke.js/', data-send='false', data-layout='button_count', data-width='450', data-show-faces='false', data-colorscheme='dark')
+    script(src='./Bespoke.js_files/bespoke.min.js')
+    script(src='./Bespoke.js_files/demo.js')
