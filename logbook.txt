@@ -43,7 +43,7 @@ Progress Harian (Diupdate tiap hari)
 Daily Scrum
 Vincent Lius:
 1. 
-2. saya hari ini mengerjakan section a-e-i-o-u dengan ka-ki-ku-ke-ko
+2. saya hari ini mengerjakan section a-e-i-o-u dengan ka-ki-ku-ke-ko dan index.jade
 3. tidak ada masalah
 
 Hilary Gunarsa Lubis:
