@@ -60,3 +60,25 @@ Tria Bakdia Afsari:
 1.
 2. Hari ini saya push ma mi mu me mo dan ya i yu e yo
 3. tidak ada masalah
+
+27/5
+Daily Scrum
+Vincent Lius:
+1. kemarin saya mengerjakan 2 section pada index.jade
+2. saya hari ini saya menambahkan 2 section pada index.jade
+3. tidak ada masalah
+
+Hilary Gunarsa Lubis:
+1. kemarin saya buat 2 section
+2. hari ini saya tambahkan katakana.jade dan 2 section
+3. tidak ada masalah
+
+Bambang Yusuf:
+1. Semalam saya mengerjakan ha hi fu he ho dan na ni nu ne no
+2. Hari ini saya mengerjakan sa shi su se so dan ta chi tsu te to
+3. tidak ada masalah
+
+Tria Bakdia Afsari:
+1. Semalam saya mengerjakan ma mi mu me mo dan ya i yu e yo
+2. Hari ini saya mengerjakan na ni nu ne no dan ha hi fu he ho
+3. tidak ada masalah
