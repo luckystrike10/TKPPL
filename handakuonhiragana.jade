@@ -1,0 +1,62 @@
+doctype 
+html
+head
+    meta(http-equiv='Content-Type', content='text/html; charset=ISO-8859-1')
+    meta(name='viewport', content='width=device-width')
+    title Bespoke.js
+    meta(content='Bespoke.js', property='og:title')
+    meta(content='Bespoke.js', property='og:site_name')
+    meta(content='http://markdalgleish.com/projects/bespoke.js/', property='og:url')
+    meta(content='website', property='og:type')
+    link(rel='stylesheet', type='text/css', href='./Bespoke.js_files/style.css')
+    link(rel='stylesheet', type='text/css', href='./Bespoke.js_files/themes.css')
+    link(href='./Bespoke.js_files/css', rel='stylesheet', type='text/css')
+  body.cube
+    #main
+      header
+        p.hidden
+          span#input-method Press up and down keys
+          | to view example themes. 
+      #title
+        a(href='katakana.html')
+          span Hiragana
+          span.shh Katakana
+      p#second
+        ul
+          li a-column 
+          li i-column 
+          li u-column 
+          li e-column 
+          li o-column
+            article.bespoke
+              section#mix
+                p ぱ　ぴ　ぷ　ぺ　ぽ
+                p pa pi pu pe po
+              
+      ol#btn
+        li MENU
+          ol 
+            li
+              a(href="index.html")
+                h3 Gojoun
+            li
+              a(href="dakuonhiragana.html") 
+                h3 Dakuon
+            li
+              a(href="handakuonhiragana.html")
+                h3 Han-Dakuon
+            li
+              a(href="yoonhiragana.html")
+                h3 Yoon
+        h4 Han-Dakuon
+    footer
+      .themes
+          p
+            strong
+              | MODE VIEW
+              span.colon :
+            span#theme Cube
+          #up-arrow.up.arrow ^
+          #down-arrow.down.arrow ^
+    script(src='./Bespoke.js_files/bespoke.min.js')
+    script(src='./Bespoke.js_files/demo.js')
