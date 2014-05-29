@@ -24,11 +24,12 @@ Anggota 4:
 SPRINT
 ------
 Sprint 1: 
-26/5 - 29/5
+26/5 - 28/5
 Scrummaster: Vincent Lius (121110243)
 
 Sprint 2:
-
+29/5 - 31/5
+Scrummaster: Hilary Gunarsa Lubis(121112091)
 
 Sprint 3: 
 
@@ -104,3 +105,25 @@ Tria Bakdia Afsari:
 1. Semalam saya mengerjakan na ni nu ne no dan ha hi fu he ho
 2. Hari ini saya mengerjakan da ji zu de do | ba bi bu be bo | list index, dakuonhiragana, handakuonhiragana, yoonhiragana.
 3. Tidak ada masalah
+
+29/5
+Daily Scrum
+Vincent Lius:
+1. kemarin saya menambahkan 2 section pada katakana.jade
+2. hari ini saya menambahkan file handakuonhiragana.jade + yoonhiragana.jade
+3. tidak ada masalah
+
+Hilary Gunarsa Lubis:
+1. kemarin saya menambahkan 2 section pada katakana.jade
+2. hari ini saya menambahkan 2 section pada yoonhiragana.jade
+3. tidak ada masalah
+
+Bambang Yusuf:
+1. Kemarin saya menyelesaikan ga gi gu ge go dan za ji zu ze zo serta upload file dakuokatana.jade
+2. Hari ini saya menambahkan 2 section : hya hyu hyo dan nya nyu nyo 
+3. Tidak ada masalah
+
+Tria Bakdia Afsari:
+1. Kemarin saya menambahkan 2 section pada dakuonhiragana.jade dan 4 list pada index.jade
+2. hari ini saya menambahkan 2 section pada yoonhiragana.jade
+3. tidak ada masalah
