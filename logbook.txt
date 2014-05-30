@@ -127,3 +127,25 @@ Tria Bakdia Afsari:
 1. Kemarin saya menambahkan 2 section pada dakuonhiragana.jade dan 4 list pada index.jade
 2. hari ini saya menambahkan 2 section pada yoonhiragana.jade
 3. tidak ada masalah
+
+30/5
+Daily Scrum
+Vincent Lius:
+1. Kemarin saya menambahkan file handakuonhiragana.jade + yoonhiragana.jade
+2. Hari ini saya menambahkan 2 section pada yoonhiragana.jade
+3. Tidak ada masalah
+
+Hilary Gunarsa Lubis:
+1. kemarin saya nambah 2 section pada yoonhiragana.jade
+2. hari ini saya menambahkan 2 section juga pada yoonhiragana.jade
+3. tidak ada masalah
+
+Bambang Yusuf:
+1. Kemarin saya Menambahkan 2 section : hya hyu hyo dan nya nyu nyo
+2. Hari ini saya Menambah file dakuonkatana.jade dan menambahkan masing-masing 1 section pada dakuonkatana.jade dan yoonhiragana
+3. Tidak ada Masalah
+
+Tria Bakdia Afsari:
+1. Kemarin saya menambahkan 2 section pada yoonhiragana.jade
+2. hari ini saya menambahkan 2 section pada dakuonkatakana.jade
+3. tidak ada masalah
