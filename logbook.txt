@@ -149,3 +149,24 @@ Tria Bakdia Afsari:
 1. Kemarin saya menambahkan 2 section pada yoonhiragana.jade
 2. hari ini saya menambahkan 2 section pada dakuonkatakana.jade
 3. tidak ada masalah
+
+31/5
+Vincent Lius:
+1. Kemarin saya menambahkan 2 section pada yoonhiragana.jade
+2/ Hari ini saya menambahkan 1 section pada dakuonkatakan.jade + file handakuonkatakana.jade
+3. tidak ada masalah
+
+Hilary Gunarsa Lubis:
+1. kemarin saya menambahkan 2 section pada yoonhiragana.jade
+2. Hari ini saya menambahkan 1 file yoonkatakana.jade dan 2 section utk yoonkatakana
+3. tidak ada masalah
+
+Bambang Yusuf:
+1. Kemarin Saya Menambahkan ga gi gu ge go dan pya pyu pyo
+2. Hari ini Saya Menambahkan 2 section yaitu cha chu cho dan nya nyu nyo
+3. Tidak ada Masalah
+
+Tria Bakdia Afsari:
+1. kemarin saya menambahkan 2 section pada dakuonkatakana.jade
+2. hari ini saya menambahkan 2 section pada yoonkatakana.jade
+3. tidak ada masalah
