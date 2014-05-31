@@ -1,0 +1,69 @@
+doctype 
+html
+head
+    meta(http-equiv='Content-Type', content='text/html; charset=ISO-8859-1')
+    meta(name='viewport', content='width=device-width')
+    title Bespoke.js
+    meta(content='Bespoke.js', property='og:title')
+    meta(content='Bespoke.js', property='og:site_name')
+    meta(content='http://markdalgleish.com/projects/bespoke.js/', property='og:url')
+    meta(content='website', property='og:type')
+    meta(content='DIY Presentation Micro-Framework. Less than 1KB minified and gzipped, with no dependencies. Bespoke.js provides the foundation, then gets out of your way so you can focus on uniquely crafting your own personal deck style.', property='og:description')
+    meta(content='http://markdalgleish.com/projects/bespoke.js/images/og-thumb.jpg', property='og:image')
+    link(rel='stylesheet', type='text/css', href='style.css')
+    link(rel='stylesheet', type='text/css', href='styles/style.css')
+    link(rel='stylesheet', type='text/css', href='./Bespoke.js_files/style.css')
+    link(rel='stylesheet', type='text/css', href='./Bespoke.js_files/themes.css')
+    link(href='./Bespoke.js_files/css', rel='stylesheet', type='text/css')
+  body.cube
+    #main
+      header
+        p.hidden
+          span#input-method Press up and down keys
+          | to view example themes.  
+      #title
+        a(href='index.html')
+          span Katakana
+          span.shh Hiragana
+      p#second
+        ul
+          li a-column 
+          li i-column 
+          li u-column 
+          li e-column 
+          li o-column
+            article.bespoke
+              section#mix
+                p キャ　キュ　キョ
+                p kya kyu kyo
+              section#mix
+                p シャ　シュ　ショ
+                p sha shu sho
+              
+      ol#btn
+        li MENU
+          ol 
+            li
+              a(href="katakana.html")
+                h3 Gojoun
+            li
+              a(href="dakuonkatakana.html")
+                h3 Dakuon
+            li
+              a(href="handakuonkatakana.html")
+                h3 Han-Dakuon
+            li
+              a(href="yoonkatakana.html")
+                h3 Yoon
+        h4 Yoon    
+    footer
+      .themes
+          p
+            strong
+              | MODE VIEW
+              span.colon :
+            span#theme Cube
+          #up-arrow.up.arrow ^
+          #down-arrow.down.arrow ^
+    script(src='./Bespoke.js_files/bespoke.min.js')
+    script(src='./Bespoke.js_files/demo.js')
