@@ -1,0 +1,89 @@
+* {
+	box-sizing: border-box;
+	-webkit-font-smoothing: antialiased;
+	font-smoothing: antialiased;
+	margin: 0;
+	padding: 0;
+}
+a{
+	text-decoration: none;
+}
+body {
+	overflow-x: hidden;
+	font-family: Lucida Grande,Helvetica Neue, Helvetica, Arial, sans-serif;
+	font-size: 12px;
+	color: #606060;
+}
+
+
+footer {
+	background: white;
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	height: 60px;
+}
+
+footer img {
+	border: 0;
+	border-radius: 4px;
+	float: left;
+	width: 30px;
+	height: 30px;
+	margin: 15px;
+}
+
+footer p {
+	padding-top: 24px;
+}
+
+footer a {
+	font-weight: bold;
+}
+
+.themes {
+	width: 180px;
+	position: absolute;
+	left: 50%;
+	top: 0;
+	margin-left: -55px;
+}
+
+.themes strong {
+	margin-right: 4px;
+}
+
+.arrow {
+	-webkit-transition: background .1s ease;
+	-moz-transition: background .1s ease;
+	-ms-transition: background .1s ease;
+	-o-transition: background .1s ease;
+	transition: background .1s ease;
+	cursor: pointer;
+	color: white;
+	background: #808080;
+	width: 15px;
+	height: 15px;
+	border-radius: 4px;
+	text-align: center;
+	font-weight: bold;
+	line-height: 19px;
+	overflow: hidden;
+	position: absolute;
+	top: 24px;
+}
+
+.arrow.up {
+	left: -42px;
+}
+
+.arrow.down {
+	-webkit-transform: rotate(180deg);
+	-moz-transform: rotate(180deg);
+	-ms-transform: rotate(180deg);
+	-o-transform: rotate(180deg);
+	transform: rotate(180deg);
+	left: -24px;
+}
+
