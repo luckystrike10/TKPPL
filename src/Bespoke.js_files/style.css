@@ -14,7 +14,58 @@ body {
 	font-size: 12px;
 	color: #606060;
 }
-
+.social {
+bottom: 16px;
+clear: left;
+overflow: hidden;
+padding-top: 15px;
+position: absolute;
+right: 10px;
+width: 275px;
+}
+.twitter-share-button {
+overflow: hidden;
+width: 98px !important;
+}
+.fb-like {
+position: absolute !important;
+left: 179px;
+top: 15px;
+}
+.fb_edge_comment_widget iframe {
+position: absolute;
+top: -300px;
+}
+‪#‎main‬ {
+position: absolute;
+top: 0;
+left: 0;
+right: 0;
+bottom: 0;
+}
+h1 {
+color: white;
+font-family: Raleway Dots;
+/* Fix thin font rendering on Windows */
+font-size: 156px;
+-webkit-transform: scale(0.5);
+-moz-transform: scale(0.5);
+-ms-transform: scale(0.5);
+-o-transform: scale(0.5);
+transform: scale(0.5);
+font-weight: normal;
+text-align: center;
+text-shadow: 0 0 1px white, 0 0 1px white, 0 0 1px white;
+position: absolute;
+z-index: 20;
+top: 50%;
+right: 0;
+height: 82px;
+margin-top: -110px;
+width: 776px;
+left: 50%;
+margin-left: -388px;
+}
 
 footer {
 	background: white;
