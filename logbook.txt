@@ -31,7 +31,9 @@ Sprint 2:
 29/5 - 31/5
 Scrummaster: Hilary Gunarsa Lubis(121112091)
 
-Sprint 3: 
+Sprint 3:
+02/5 - 05/5
+Scrummaster : Bambang Yusuf (121111907) 
 
 
 Sprint 4:
@@ -191,4 +193,26 @@ Bambang Yusuf:
 Tria Bakdia Afsari:
 1. Kemarin saya menambahkan 2 section pada yoonkatakana.jade dan menambahkan css
 2. Hari ini saya menambahkan 1 section pada handakuonhiragana.jade
+3. Tidak ada masalah
+
+
+03/6
+Vincent Lius:
+1. Kemarin saya menambahkan 2 section
+2. hari ini saya mengedit 3 section pada index.jade
+3. tidak ada maslah
+
+Hilary Gunarsa Lubis:
+1. kemarin saya menambahkan 2 section ke yoonkatakana.jade
+2. Hari ini saya menambahkan 3 section sound ke index.jade
+3. tidak ada masalah
+
+Bambang Yusuf:
+1. Kemarin Saya Menambahkan 2 section bya byu byo dan rya ryu ryo
+2. Hari ini Saya Menambahkan 3 section di index.jade
+3. Tidak ada Masalah
+
+Tria Bakdia Afsari:
+1. Kemarin saya menambahkan 1 section pada handakuonhiragana.jade
+2. Hari ini menambahkan 4 section pada handakuonhiragana.jade
 3. Tidak ada masalah
