@@ -32,16 +32,29 @@ head
           li u-column 
           li e-column 
           li o-column
-            article.bespoke
-              section#mix
-                p ア　イ　ウ　エ　オ
-                p a e i o u
-              section#mix
-                p カ　キ　ク　ケ　コ
-                p ka ki ku ke ko
-              section#mix
-                p サ　シ　ス　セ　ソ
-                p sa shi su se so
+            span#dummy
+			article.bespoke
+			  section#mix
+				a(href='#', onclick='playSound(\'./sound/a.mp3\');') ア 
+				a(href='#', onclick='playSound(\'./sound/i.mp3\');') イ 
+				a(href='#', onclick='playSound(\'./sound/u.mp3\');') ウ 
+				a(href='#', onclick='playSound(\'./sound/e.mp3\');') エ 
+				a(href='#', onclick='playSound(\'./sound/o.mp3\');') オ 
+				h5 a i u e o
+			  section#mix
+				a(href='#', onclick='playSound(\'./sound/ka.mp3\');') カ 
+				a(href='#', onclick='playSound(\'./sound/ki.mp3\');') キ 
+				a(href='#', onclick='playSound(\'./sound/ku.mp3\');') ク 
+				a(href='#', onclick='playSound(\'./sound/ke.mp3\');') ケ 
+				a(href='#', onclick='playSound(\'./sound/ko.mp3\');') コ 
+				h5 ka ki ku ke ko
+			  section#mix
+				a(href='#', onclick='playSound(\'./sound/sa.mp3\');') サ 
+				a(href='#', onclick='playSound(\'./sound/shi.mp3\');') シ 
+				a(href='#', onclick='playSound(\'./sound/su.mp3\');') ス 
+				a(href='#', onclick='playSound(\'./sound/se.mp3\');') セ 
+				a(href='#', onclick='playSound(\'./sound/so.mp3\');') ソ 
+				h5 sa shi su se so
               section#mix
                 a(href='#', onclick='playSound(\'./sound/ta.mp3\');') タ 
                 a(href='#', onclick='playSound(\'./sound/chi.mp3\');') チ 
