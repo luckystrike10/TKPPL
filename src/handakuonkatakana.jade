@@ -32,10 +32,15 @@ head
           li u-column 
           li e-column 
           li o-column
-            article.bespoke
-              section#mix
-                p パ　ピ　プ　ペ　ポ
-                p pa pi pu pe po
+            span#dummy
+                        article.bespoke
+                          section#mix
+                                a(href='#', onclick='playSound(\'./sound/pa.mp3\');') パ
+                                a(href='#', onclick='playSound(\'./sound/pi.mp3\');') ピ
+                                a(href='#', onclick='playSound(\'./sound/pu.mp3\');') プ
+                                a(href='#', onclick='playSound(\'./sound/pe.mp3\');') ペ
+                                a(href='#', onclick='playSound(\'./sound/po.mp3\');') ポ
+                                h5 pa pi pu pe po
       ol#btn
         li MENU
           ol 
