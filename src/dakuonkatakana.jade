@@ -32,19 +32,28 @@ head
           li u-column 
           li e-column 
           li o-column
-            article.bespoke
-              section#mix
-                p ガ　ギ　グ　ゲ　ゴ
-                p ga gi gu ge go
-              section#mix
-                p ザ　ジ　ズ　ゼ　ゾ
-                p za ji zu ze zo
+            span#dummy
+              		article.bespoke
+              		  section#mix
+              		  	a(href='#', onclick='playSound(\'./sound/ga.mp3\');') ガ
+				a(href='#', onclick='playSound(\'./sound/gi.mp3\');') ギ
+				a(href='#', onclick='playSound(\'./sound/gu.mp3\');') グ
+				a(href='#', onclick='playSound(\'./sound/ge.mp3\');') ゲ
+				a(href='#', onclick='playSound(\'./sound/go.mp3\');') ゴ 
+                		h5 ga gi gu ge go
+              		  section#mix
+              		  	a(href='#', onclick='playSound(\'./sound/za.mp3\');') ザ
+				a(href='#', onclick='playSound(\'./sound/ji.mp3\');') ジ
+				a(href='#', onclick='playSound(\'./sound/zu.mp3\');') ズ
+				a(href='#', onclick='playSound(\'./sound/ze.mp3\');') ゼ
+				a(href='#', onclick='playSound(\'./sound/zo.mp3\');') ゾ
+                		h5 za ji zu ze zo
               section#mix
                 p ダ　ヂ　ヅ　デ　ド
                 p da ji zu de do
-			  section#mix
-				p バ　ビ　ブ　ベ　ボ
-				p ba bi bu be bo
+	      section#mix
+		p バ　ビ　ブ　ベ　ボ
+		p ba bi bu be bo
       ol#btn
         li MENU
           ol 
