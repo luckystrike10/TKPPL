@@ -37,7 +37,7 @@ Scrummaster : Bambang Yusuf (121111907)
 
 
 Sprint 4:
-
+05/6 - 07/6
 
 Progress Harian (Diupdate tiap hari)
 ------------------------------------
@@ -237,4 +237,26 @@ Bambang Yusuf:
 Tria Bakdia Afsari:
 1. Kemarin saya menambahkan 4 section pada handakuonhiragana.jade
 2. Hari ini menambahkan 1 section pada handakuonkataka.jade, 1 section pada katakana.jade, 2 section pada dakuonkatakana.jade, dan 4 section pada yoonkatakana.jade
+3. Tidak ada masalah
+
+
+05/6
+Vincent Lius:
+1. Kemarin saya mengedit 3 section pada katakana.jade + 3 section pada yoonhiragana.jade
+2. Hari ini saya mengedit 4 section example.jade
+3. Tidak ada masalah
+
+Hilary Gunarsa Lubis:
+1. Kemarin saya menambahkan 3 section sound ke katakana.jade
+2. Hari ini saya menambahkan 4 examples + sound ke examples.jade
+3. Tidak ada masalah
+
+Bambang Yusuf Manulang:
+1. Kemarin ini menambahkan 8 section pada yoonhiragana.jade, 2 section pada dakuonkatakana.jade, 3 section pada katakana.jade
+2. Hari ini saya menambahkan 4 Section pada Examples.jade
+3. Tidak ada masalah
+
+Tria Bakdia Afsari:
+1. Kemarin saya menambahkan 1 section pada handakuonkataka.jade, 1 section pada katakana.jade, 2 section pada dakuonkatakana.jade, dan 4 section pada yoonkatakana.jade
+2. Hari ini saya menambahkan 4 section pada examples.jade
 3. Tidak ada masalah
