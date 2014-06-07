@@ -303,5 +303,5 @@ Tria Bakdia Afsari:
 
 Bambang Yusuf Manulang:
 1. Kemarin saya menambahkan 4 Section pada Examples.jade
-2. Hari ini saya menambahkan 4 Section pada Examples.jade
+2. Hari ini saya menambahkan 8 Section pada Examples.jade
 3. Tidak ada masalah
