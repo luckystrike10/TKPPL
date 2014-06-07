@@ -285,3 +285,18 @@ Tria Bakdia Afsari:
 3. Tidak ada masalah
 
 
+07/6
+Vincent Lius:
+1. kemarin saya add 4 section pada examples.jade
+2. hari ini saya add 10 section pada examples.jade
+3. tidak ada masalah
+
+Hilary Gunarsa Lubis:
+1. Kemarin saya menambahkan 3 examples + sound ke examples.jade
+2. Hari ini saya menambahkan 10 examples + sound ke examples.jade serta pengeditan kedalaman section
+3. tidak ada masalah
+
+Tria Bakdia Afsari:
+1. kemarin saya add 4 section pada examples.jade
+2. hari ini saya add 7 section pada examples.jade
+3. tidak ada masalah
