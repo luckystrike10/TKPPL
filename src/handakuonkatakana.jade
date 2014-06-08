@@ -8,10 +8,6 @@ head
     meta(content='Bespoke.js', property='og:site_name')
     meta(content='http://markdalgleish.com/projects/bespoke.js/', property='og:url')
     meta(content='website', property='og:type')
-    meta(content='DIY Presentation Micro-Framework. Less than 1KB minified and gzipped, with no dependencies. Bespoke.js provides the foundation, then gets out of your way so you can focus on uniquely crafting your own personal deck style.', property='og:description')
-    meta(content='http://markdalgleish.com/projects/bespoke.js/images/og-thumb.jpg', property='og:image')
-    link(rel='stylesheet', type='text/css', href='style.css')
-    link(rel='stylesheet', type='text/css', href='styles/style.css')
     link(rel='stylesheet', type='text/css', href='./Bespoke.js_files/style.css')
     link(rel='stylesheet', type='text/css', href='./Bespoke.js_files/themes.css')
     link(href='./Bespoke.js_files/css', rel='stylesheet', type='text/css')
@@ -19,8 +15,8 @@ head
     #main
       header
         p.hidden
-          span#input-method Press up and down keys
-          | to view example themes.  
+          span#input-method Tekan arah panah atas dan bawah 
+          | untuk mengganti mode tampilan.  
       #title
         a(href='index.html')
           span Katakana
@@ -33,14 +29,14 @@ head
           li e-column 
           li o-column
             span#dummy
-                        article.bespoke
-                          section#mix
-                                a(href='#', onclick='playSound(\'./sound/pa.mp3\');') パ
-                                a(href='#', onclick='playSound(\'./sound/pi.mp3\');') ピ
-                                a(href='#', onclick='playSound(\'./sound/pu.mp3\');') プ
-                                a(href='#', onclick='playSound(\'./sound/pe.mp3\');') ペ
-                                a(href='#', onclick='playSound(\'./sound/po.mp3\');') ポ
-                                h5 pa pi pu pe po
+            article.bespoke
+              section#mix
+                a(href='#', onclick='playSound(\'./sound/pa.mp3\');') パ 
+                a(href='#', onclick='playSound(\'./sound/pi.mp3\');') ピ 
+                a(href='#', onclick='playSound(\'./sound/pu.mp3\');') プ 
+                a(href='#', onclick='playSound(\'./sound/pe.mp3\');') ペ 
+                a(href='#', onclick='playSound(\'./sound/po.mp3\');') ポ 
+                h5 pa pi pu pe po
       ol#btn
         li MENU
           ol 
@@ -56,6 +52,9 @@ head
             li
               a(href="yoonkatakana.html")
                 h3 Yoon
+            li
+              a(href="examples.html")
+                h3 Examples
         h4 Han-Dakuon    
     footer
       .themes
@@ -68,3 +67,4 @@ head
           #down-arrow.down.arrow ^
     script(src='./Bespoke.js_files/bespoke.min.js')
     script(src='./Bespoke.js_files/demo.js')
+    script(src='./Bespoke.js_files/sound.js')
