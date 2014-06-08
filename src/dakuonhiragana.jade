@@ -15,8 +15,8 @@ head
     #main
       header
         p.hidden
-          span#input-method Press up and down keys
-          | to view example themes. 
+          span#input-method Tekan arah panah atas dan bawah 
+          | untuk mengganti mode tampilan. 
       #title
         a(href='katakana.html')
           span Hiragana
@@ -28,19 +28,36 @@ head
           li u-column 
           li e-column 
           li o-column
-              article.bespoke
-                section#mix
-                  p  が　ぎ　ぐ  げ　 ご
-                  p ga gi gu ge go
-                section#mix
-                  p ざ　 じ　ず　 ぜ　ぞ
-                  p za ji zu ze zo
-                section#mix
-	              p だ　じ　ず　で　ど
-	              p da ji zu de do
-                section#mix
-	              p ば　び　ぶ　べ　ぼ
-	              p ba bi bu be bo
+            span#dummy
+            article.bespoke
+              section#mix
+                a(href='#', onclick='playSound(\'./sound/ga.mp3\');') が 
+                a(href='#', onclick='playSound(\'./sound/gi.mp3\');') ぎ 
+                a(href='#', onclick='playSound(\'./sound/gu.mp3\');') ぐ 
+                a(href='#', onclick='playSound(\'./sound/ge.mp3\');') げ 
+                a(href='#', onclick='playSound(\'./sound/go.mp3\');') ご  
+                h5 ga gi gu ge go
+              section#mix
+                a(href='#', onclick='playSound(\'./sound/za.mp3\');') ざ 
+                a(href='#', onclick='playSound(\'./sound/ji.mp3\');') じ 
+                a(href='#', onclick='playSound(\'./sound/zu.mp3\');') ず 
+                a(href='#', onclick='playSound(\'./sound/ze.mp3\');') ぜ 
+                a(href='#', onclick='playSound(\'./sound/zo.mp3\');') ぞ  
+                h5 za ji zu ze zo
+              section#mix
+                a(href='#', onclick='playSound(\'./sound/da.mp3\');') だ 
+                a(href='#', onclick='playSound(\'./sound/ji2.mp3\');') じ 
+                a(href='#', onclick='playSound(\'./sound/zu2.mp3\');') ず 
+                a(href='#', onclick='playSound(\'./sound/de.mp3\');') で 
+                a(href='#', onclick='playSound(\'./sound/do.mp3\');') ど  
+                h5 da ji zu de do
+              section#mix
+                a(href='#', onclick='playSound(\'./sound/ba.mp3\');') ば 
+                a(href='#', onclick='playSound(\'./sound/bi.mp3\');') び 
+                a(href='#', onclick='playSound(\'./sound/bu.mp3\');') ぶ 
+                a(href='#', onclick='playSound(\'./sound/be.mp3\');') べ 
+                a(href='#', onclick='playSound(\'./sound/bo.mp3\');') ぼ  
+                h5 ba bi bu be bo
       ol#btn
         li MENU
           ol 
@@ -56,6 +73,9 @@ head
             li
               a(href="yoonhiragana.html")
                 h3 Yoon
+            li
+              a(href="examples.html")
+                h3 Examples
         h4 Dakuon
     footer
       .themes
@@ -68,3 +88,4 @@ head
           #down-arrow.down.arrow ^
     script(src='./Bespoke.js_files/bespoke.min.js')
     script(src='./Bespoke.js_files/demo.js')
+    script(src='./Bespoke.js_files/sound.js')
